@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DhruvPatel-Portfolio/static/css/main.bf00a532.css",
+    "main.js": "/DhruvPatel-Portfolio/static/js/main.02bae861.js",
+    "static/js/453.1407b060.chunk.js": "/DhruvPatel-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/weatherimg.png": "/DhruvPatel-Portfolio/static/media/weatherimg.26e76181c6160faa106e.png",
+    "static/media/agrucoimg.png": "/DhruvPatel-Portfolio/static/media/agrucoimg.07c6dd15ec424f177f4b.png",
+    "static/media/skytechimg.png": "/DhruvPatel-Portfolio/static/media/skytechimg.00d383aa6d8b2843a97f.png",
+    "static/media/flipcartimg.png": "/DhruvPatel-Portfolio/static/media/flipcartimg.4764dcd2299cb00f3564.png",
+    "static/media/Dhruv Resume.pdf": "/DhruvPatel-Portfolio/static/media/Dhruv Resume.92cb4db3af23e99c1965.pdf",
+    "static/media/HTML5.png": "/DhruvPatel-Portfolio/static/media/HTML5.2cd5d05c9660ec55992e.png",
+    "static/media/Bootstrap.png": "/DhruvPatel-Portfolio/static/media/Bootstrap.7ec629589d73f8a028c5.png",
+    "static/media/VSCode.png": "/DhruvPatel-Portfolio/static/media/VSCode.c451d51c85d02c2a3841.png",
+    "static/media/React.png": "/DhruvPatel-Portfolio/static/media/React.98ff38735baa4c1b0381.png",
+    "index.html": "/DhruvPatel-Portfolio/index.html",
+    "main.bf00a532.css.map": "/DhruvPatel-Portfolio/static/css/main.bf00a532.css.map",
+    "main.02bae861.js.map": "/DhruvPatel-Portfolio/static/js/main.02bae861.js.map",
+    "453.1407b060.chunk.js.map": "/DhruvPatel-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf00a532.css",
+    "static/js/main.02bae861.js"
+  ]
+}
